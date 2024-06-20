@@ -1,0 +1,16 @@
+<settings>
+  <EnableLogo>True</EnableLogo>
+  <EnableID>True</EnableID>
+  <EnableIP>True</EnableIP>
+  <EnableFlag>True</EnableFlag>
+  <EnableCountry>True</EnableCountry>
+  <EnableUsername>True</EnableUsername>
+  <EnableVersion>True</EnableVersion>
+  <EnableMonitor>True</EnableMonitor>
+  <PageL>10</PageL>
+  <PageO>11</PageO>
+  <PageSpeed>1</PageSpeed>
+  <EnableEdgecurvature>True</EnableEdgecurvature>
+  <DownColorForm>0</DownColorForm>
+  <CurvatureForm>60</CurvatureForm>
+</settings>

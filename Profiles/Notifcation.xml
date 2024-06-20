@@ -1,0 +1,10 @@
+<settings>
+  <TextTitleNotif>Notification </TextTitleNotif>
+  <TextMessageNotif>This is the notification text!</TextMessageNotif>
+  <TextDelayNotif>2000</TextDelayNotif>
+  <ShowIconNotif>True</ShowIconNotif>
+  <ShowCloseButtNotif>True</ShowCloseButtNotif>
+  <ScrollToOutNotif>True</ScrollToOutNotif>
+  <EffectNotif>True</EffectNotif>
+  <SpeedNotif>500</SpeedNotif>
+</settings>

